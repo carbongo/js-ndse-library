@@ -1,0 +1,19 @@
+{
+  "name": "js-ndse-library",
+  "version": "1.0.0",
+  "description": "Netology homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carbongo/js-ndse-library.git"
+  },
+  "author": "George An. (carbongo)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carbongo/js-ndse-library/issues"
+  },
+  "homepage": "https://github.com/carbongo/js-ndse-library#readme"
+}
